@@ -271,7 +271,7 @@ body {
     transition: all .2s; }
     .gallery__img:hover {
       transform: scale(1.4);
-      box-shadow: 0 5px 10px 3px #000; }
+      box-shadow: 0 3px 10px 1px #000; }
 
 .footer {
   background-color: #101d2c;
