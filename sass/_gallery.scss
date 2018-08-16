@@ -76,5 +76,10 @@
     height: 100%;
     object-fit: cover;
     display: block;
+    transition: all .2s;
+
+    &:hover{
+      transform: scale(1.4);
+    }
   }
 }
