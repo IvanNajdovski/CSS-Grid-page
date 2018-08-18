@@ -84,3 +84,158 @@
     }
   }
 }
+
+.pic-1{
+  visibility: hidden;
+  transform: translateX(-100px);
+
+}
+ .moving.pic-1{
+  transition: all .3s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+
+.pic-2{
+  visibility: hidden;
+  transform: translateX(1000px);
+
+}
+.moving.pic-2{
+  transition: all .3s;
+  transition-delay: 1s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+.pic-3{
+  visibility: hidden;
+  transform: translateX(-400px);
+
+}
+.moving.pic-3{
+  transition: all .3s;
+  transition-delay: .5s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+.pic-4{
+  visibility: hidden;
+  transform: translateX(300px);
+
+}
+.moving.pic-4{
+  transition: all .3s;
+  transition-delay: .2s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+.pic-5{
+  visibility: hidden;
+  transform: translateX(-100px);
+
+}
+.moving.pic-5{
+  transition: all .1s;
+  transition-delay: 1s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+.pic-6{
+  visibility: hidden;
+  transform: translateX(1000px);
+
+}
+.moving.pic-6{
+  transition: all .3s;
+  transition-delay: .5s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+.pic-7{
+  visibility: hidden;
+  transform: translateX(-100px);
+
+}
+.moving.pic-7{
+  transition: all .3s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+
+.pic-8{
+  visibility: hidden;
+  transform: translateX(1000px);
+
+}
+.moving.pic-8{
+  transition: all .3s;
+  transition-delay: 1s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+.pic-9{
+  visibility: hidden;
+  transform: translateX(-400px);
+
+}
+.moving.pic-9{
+  transition: all .3s;
+  transition-delay: .5s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+.pic-10{
+  visibility: hidden;
+  transform: translateX(300px);
+
+}
+.moving.pic-10{
+  transition: all .3s;
+  transition-delay: .2s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+.pic-11{
+  visibility: hidden;
+  transform: translateX(1000px);
+
+}
+.moving.pic-11{
+  transition: all .1s;
+  transition-delay: 1s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+.pic-12{
+  visibility: hidden;
+  transform: translateX(1000px);
+
+}
+.moving.pic-12{
+  transition: all .3s;
+  transition-delay: .5s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+.pic-13{
+  visibility: hidden;
+  transform: translateX(300px);
+
+}
+.moving.pic-13{
+  transition: all .3s;
+  transition-delay: .2s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
+.pic-14{
+  visibility: hidden;
+  transform: translateX(-100px);
+
+}
+.moving.pic-14{
+  transition: all .1s;
+  transition-delay: 1s;
+  visibility: visible;
+  transform: translateX(0) !important;
+}
