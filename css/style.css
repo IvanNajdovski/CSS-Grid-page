@@ -251,7 +251,8 @@ body {
   width: 100%;
   grid-row: 2 / 6;
   grid-column: 2 / 6;
-  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.1); }
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.1);
+  transform: scale(0.5); }
   @media only screen and (max-width: 50em) {
     .story__img-1 {
       grid-column: 1 / 5;
@@ -263,7 +264,8 @@ body {
   grid-row: 4 / 6;
   grid-column: 4 / 7;
   z-index: 1;
-  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2); }
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
+  transform: scale(0.5); }
   @media only screen and (max-width: 50em) {
     .story__img-2 {
       width: 100%;
@@ -286,6 +288,10 @@ body {
   font-size: 1.5rem;
   font-style: italic;
   margin-bottom: 4rem; }
+
+.animate {
+  transition: all 1s;
+  transform: scale(1); }
 
 .homes {
   grid-column: center-start / center-end;
